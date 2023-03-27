@@ -13,7 +13,7 @@
 
     .navigation-wrapper > .center-column{
         order: 1;
-        width: 100%;
+        /*width: 100%;*/
     }
 
     .navigation-wrapper > .right-column{
